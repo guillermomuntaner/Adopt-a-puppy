@@ -12,7 +12,7 @@ It is my first time using Jetpack, and managed to put something together very qu
 positively impress by it :)
 Something challenging was dealing with the combination of an app bar and jetpack navigation. I
 couldn't find a simpler way to do this, so ended up handling it in a particular way, with some state
-and passing Handling the navigation; see [Navigation.kt].
+and passing Handling the navigation; see [Navigation.kt](app/src/main/java/com/example/androiddevchallenge/ui/Navigation.kt).
 
 ## :camera_flash: Screenshots
 <img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
